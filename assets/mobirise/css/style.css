@@ -225,7 +225,7 @@ html {
 @media (min-width: 768px) {
   .content-2.col-3 .row > div {
     float: left;
-    width: 33.33333333%;
+    width: 25%;
   }
 }
 @media (min-width: 992px) {
