@@ -378,6 +378,10 @@ html {
     padding-bottom: 65px;
     margin-bottom: 0;
   }
+	.embarcados{
+		max-width: 160px;
+		height: auto;
+	}
 }
 @media (max-width: 480px) {
   .content-2 .thumbnail {
@@ -391,7 +395,7 @@ html {
 @media (max-width: 767px) {
   .content-2 .thumbnail > img,
   .content-2 .thumbnail .image img {
-    width: 100%;
+    width: 50%;
     max-width: 300px;
   }
 }
