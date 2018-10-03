@@ -15,9 +15,13 @@
   float: left;
   clear: both;
   width: 100%;
-  display: flex;
+	height: auto;
+  display: block;
   justify-content: center;
   align-items: center;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	overflow-y: hidden;
 }
 
 .diretores article{

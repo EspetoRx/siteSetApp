@@ -2293,7 +2293,7 @@ html {
     /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
     
     #quote-carousel .carousel-indicators {
-        bottom: -80px !important;  
+        bottom: -50px !important;  
     }
     #quote-carousel .carousel-indicators li {
         display: inline-block;

@@ -62,7 +62,7 @@ input[name='panel'] + .collapsible {
 
 input[name='panel']:checked + .collapsible {
   overflow: auto;
-  height: 200px; /* needs a numeric value here to keep transition */
+  height: 225px; /* needs a numeric value here to keep transition */
 }
 
 .botao-setores{
