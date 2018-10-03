@@ -2255,7 +2255,7 @@ html {
     margin-bottom: 10px;
 }
 .item blockquote small {
-    color: white;
+    color: black;
 }
 
 .item blockquote p:before {
@@ -2293,7 +2293,7 @@ html {
     /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
     
     #quote-carousel .carousel-indicators {
-        bottom: -20px !important;  
+        bottom: -80px !important;  
     }
     #quote-carousel .carousel-indicators li {
         display: inline-block;
@@ -2306,6 +2306,12 @@ html {
         width: 20px;
         height: 20px;
     }
+	#quote-carousel 
+	{
+	  	padding: 0px 10px 0px 10px;
+	  	margin-top: 30px;
+		height: 300px;
+	}
 }
 
 /*----------------------- IMAGENS DO PORTFOLIO -----------------------*/
