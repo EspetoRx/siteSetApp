@@ -66,7 +66,7 @@ input[name='panel']:checked + .collapsible {
 }
 
 .botao-setores{
-  margin: 0 40% 2% 40%;
+  margin: 0;
   display: flex;
   justify-content: center;
   align-items: center;
