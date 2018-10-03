@@ -56,8 +56,8 @@ article h3{
 }
 
 .membro_setapp article{
-  width: 20%;
-  padding: 2%;
+  
+  padding: 4px;
   display: flex;
   flex-direction: column;
   justify-content: center;
